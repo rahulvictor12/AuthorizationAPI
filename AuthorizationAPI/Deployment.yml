@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: authorizationapi
-        image: pmscontainerreg.azurecr.io/mutualfundsimage:latest
+        image: rmsystemcontainer.azurecr.io/rmsauthorizationapi:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
