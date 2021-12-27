@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: authorizationapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: authorizationapi
+  template:
+    metadata:
+      labels:
+        app: authorizationapi
+    spec:
+      containers:
+      - name: authorizationapi
+        image: pmscontainerreg.azurecr.io/mutualfundsimage:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: webapisvssecret
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: authorizationapi-service
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: authorizationapi
