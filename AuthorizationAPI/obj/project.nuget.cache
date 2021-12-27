@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PBmWKaRObmGio2pOa/9BM32RbG36vf4qV81kExeSCpRkdYy7pyLm/qoHNSqIflqerWT9ed/smyWx/qJfEd2Phw==",
+  "dgSpecHash": "NIDNAYh2xX2Qn98Ys/5A0PiGcik0zeAmLiFZ/JMyF7niPnEk+I0IjKOLg15R0gM/gSgl7K7qjc19OXf/X85SGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rahul\\OneDrive\\Desktop\\Documents_cognizant\\2.Stage3,4\\MFPE\\RMS Updated\\AuthorizationAPI\\AuthorizationAPI.csproj",
+  "projectFilePath": "C:\\Users\\rahul\\OneDrive\\Desktop\\Authorization Api Github\\AuthorizationAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rahul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
@@ -39,6 +39,7 @@
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",

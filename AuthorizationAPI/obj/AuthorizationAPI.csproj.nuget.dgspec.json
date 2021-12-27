@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rahul\\OneDrive\\Desktop\\Documents_cognizant\\2.Stage3,4\\MFPE\\RMS Updated\\AuthorizationAPI\\AuthorizationAPI.csproj": {}
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\Authorization Api Github\\AuthorizationAPI\\AuthorizationAPI\\AuthorizationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rahul\\OneDrive\\Desktop\\Documents_cognizant\\2.Stage3,4\\MFPE\\RMS Updated\\AuthorizationAPI\\AuthorizationAPI.csproj": {
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\Authorization Api Github\\AuthorizationAPI\\AuthorizationAPI\\AuthorizationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rahul\\OneDrive\\Desktop\\Documents_cognizant\\2.Stage3,4\\MFPE\\RMS Updated\\AuthorizationAPI\\AuthorizationAPI.csproj",
+        "projectUniqueName": "C:\\Users\\rahul\\OneDrive\\Desktop\\Authorization Api Github\\AuthorizationAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
         "projectName": "AuthorizationAPI",
-        "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\Documents_cognizant\\2.Stage3,4\\MFPE\\RMS Updated\\AuthorizationAPI\\AuthorizationAPI.csproj",
+        "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\Authorization Api Github\\AuthorizationAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\Documents_cognizant\\2.Stage3,4\\MFPE\\RMS Updated\\AuthorizationAPI\\obj\\",
+        "outputPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\Authorization Api Github\\AuthorizationAPI\\AuthorizationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,6 +77,10 @@
             "Microsoft.OpenApi": {
               "target": "Package",
               "version": "[1.2.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
