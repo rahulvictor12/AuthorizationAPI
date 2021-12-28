@@ -1,0 +1,12 @@
+WARN  05:21:03 Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+WARN  05:21:03 No XML encryptor configured. Key {f5ab2b19-a3cb-4de6-a212-1d9e3e38e046} may be persisted to storage in unencrypted form.
+WARN  05:21:03 Unable to bind to http://localhost:5000 on the IPv6 loopback interface: 'Cannot assign requested address'.
+WARN  05:21:03 Unable to bind to http://localhost:5000 on the IPv6 loopback interface: 'Cannot assign requested address'.
+INFO  05:21:03 Now listening on: http://localhost:5000
+INFO  05:21:03 Now listening on: http://localhost:5000
+INFO  05:21:03 Application started. Press Ctrl+C to shut down.
+INFO  05:21:03 Application started. Press Ctrl+C to shut down.
+INFO  05:21:03 Hosting environment: Development
+INFO  05:21:03 Hosting environment: Development
+INFO  05:21:03 Content root path: /app
+INFO  05:21:03 Content root path: /app

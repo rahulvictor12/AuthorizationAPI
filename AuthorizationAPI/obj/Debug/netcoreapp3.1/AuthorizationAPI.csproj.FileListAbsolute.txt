@@ -298,3 +298,4 @@ C:\Users\rahul\OneDrive\Desktop\Authorization Api Github\AuthorizationAPI\Author
 C:\Users\rahul\OneDrive\Desktop\Authorization Api Github\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.dll
 C:\Users\rahul\OneDrive\Desktop\Authorization Api Github\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.pdb
 C:\Users\rahul\OneDrive\Desktop\Authorization Api Github\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.genruntimeconfig.cache
+C:\Users\rahul\OneDrive\Desktop\Authorization Api Github\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Deployment.yml
